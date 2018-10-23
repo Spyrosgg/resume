@@ -33,7 +33,8 @@ Spyros has experience of new-build, refurbishment and extensions building projec
       Hellenic Greek - mothertongue<br> English - fluent<br>
       Russian - Spoken</p>
      <p> <b>Qualifications and date achieved</b><br>
-      Master of Engineering (MEng, 5 year) in Civil Engineering (2010)
+      Master of Engineering (MEng, 5 year)<br>
+      in Civil Engineering (2010)
       University of Patras, Greece.<br> CSCS, PTS card.</p>
       <p><b> Professional Associations </b><br>
       Technical Chamber of Cyprus in Civil Engineering.<br>
@@ -71,5 +72,5 @@ Driver Only Operation system included the re-design of 9 stations existing stati
 **Enfield Care Home, Three-storey new-build, London**
 Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkyODQ2NzBdfQ==
+eyJoaXN0b3J5IjpbLTE5NTM4Njg3MTZdfQ==
 -->
