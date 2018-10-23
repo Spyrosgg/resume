@@ -1,6 +1,6 @@
-## Spyros Gavriilidis
-
-### Structural Engineer
+Spyros Gavriilidis
+===
+## Structural Engineer
 
 #### Profile
 Spyros has experience of new-build, refurbishment and extensions building projects in several sectors including residential and commercial. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in software and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail KO1 delivery.
@@ -43,8 +43,8 @@ Spyros has experience of new-build, refurbishment and extensions building projec
  </tr>
 </table>
 
-#### Experience with Atkins (Jan 2014 - to present)
-
+Experience with Atkins (Jan 2014 - to present)
+---
 **Hinkley Point C nuclear power station (HPC)**
 CAT1 check engineer for calculations on the "special" steel joints for beams N11 and N17. The joints were required to transmit axial forces, shear forces and twisting moment from the beam into the column.
 
@@ -72,5 +72,5 @@ Driver Only Operation system included the re-design of 9 stations existing stati
 **Enfield Care Home, Three-storey new-build, London**
 Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM4Njg3MTZdfQ==
+eyJoaXN0b3J5IjpbMTIyMTY0OTQ0N119
 -->
