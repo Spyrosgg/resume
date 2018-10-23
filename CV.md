@@ -3,8 +3,41 @@ Spyros Gavriilidis
 ## Structural Engineer
 
 #### Profile
-Spyros has experience of new-build, refurbishment and extensions building projects in several sectors including residential and commercial. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in software and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail KO1 delivery.
+Spyros has extended experience of new-build, refurbishment and extension projects in several
 
+sectors, i.e. High-rise buildings,
+
+Rail, Educational, Heath care and
+
+Commercial structures. He has a
+
+strong engineering knowledge and
+
+attention to detail which enables him
+
+to effectively identify design and
+
+commercial opportunities to create
+
+efficiencies and add value to the
+
+project.
+
+He also specialises in software and
+
+automation development, looking to
+
+drive innovation in the engineering
+
+field. This enables him to increase
+
+team productivity and successfully
+
+deliver significant projects on tight
+
+schedules, including Crossrail KO1
+
+delivery.
 
 <table border="0">
 <colgroup>
@@ -72,5 +105,5 @@ Driver Only Operation system included the re-design of 9 stations existing stati
 **Enfield Care Home, Three-storey new-build, London**
 Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTY0OTQ0N119
+eyJoaXN0b3J5IjpbMTc1OTY2MDQ2MSwxMjIxNjQ5NDQ3XX0=
 -->
