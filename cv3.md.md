@@ -11,7 +11,7 @@ Spyros has experience of new-build, refurbishment and extensions building projec
        <col span="1" style="width: 50%;">
        <col span="1" style="width: 50%;">
     </colgroup> <tr>
-    <td><b style="font-size:15px">Key Experience</b></td>
+    <td><b style="font-size:25px">Key Experience</b></td>
     <td><b style="font-size:15px">Profession</b></td>
  </tr>
  <tr>
@@ -36,8 +36,8 @@ Spyros has experience of new-build, refurbishment and extensions building projec
       Master of Engineering (MEng, 5 year) in Civil Engineering (2010)
       University of Patras, Greece.<br> CSCS, PTS card.</p>
       <p><b> Professional Associations </b><br>
-      Technical Chamber of Cyprus in Civil Engineering. Working towards.
-      Chartership with ICE.</p>
+      Technical Chamber of Cyprus in Civil Engineering.<br>
+      Near Chartership with ICE.</p>
 </td>
  </tr>
 </table>
@@ -71,5 +71,5 @@ Driver Only Operation system included the re-design of 9 stations existing stati
 **Enfield Care Home, Three-storey new-build, London**
 Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzEyMzI2N119
+eyJoaXN0b3J5IjpbMTA1NjY1MjA5OV19
 -->
