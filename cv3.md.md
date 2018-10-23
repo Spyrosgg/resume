@@ -2,7 +2,7 @@
 
 ### Structural Engineer
 
-#### Profession
+#### Profile
 Spyros has experience of new-build, refurbishment and extensions building projects in several sectors including residential and commercial. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in software and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail KO1 delivery.
 
 
@@ -29,8 +29,9 @@ Spyros has experience of new-build, refurbishment and extensions building projec
 </td>
     <td>
       <p>Civil /Structural Engineer</p>
-      <b>Nationality / Languages</b>
-      Hellenic Greek - mothertongue English - fluent Russian -- Spoken</p>
+      <b>Nationality / Languages</b><br>
+      Hellenic Greek - mothertongue<br> English - fluent<br>
+      Russian - Spoken</p>
      <p> <b>Qualifications and date achieved</b>
       Master of Engineering (MEng, 5 year) in Civil Engineering (2010)
       University of Patras, Greece. CSCS, PTS card.</p>
@@ -70,5 +71,5 @@ Driver Only Operation system included the re-design of 9 stations existing stati
 **Enfield Care Home, Three-storey new-build, London**
 Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDAwOTQyM119
+eyJoaXN0b3J5IjpbLTIwNjU5ODQzOTVdfQ==
 -->
