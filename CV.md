@@ -45,14 +45,14 @@ He also specialises in software and automation development, looking to drive inn
 
 Experience with Atkins (Jan 2014 - to present)
 ---
-**Croydon Area Remodelling Scheme (CARS)**
+#### Croydon Area Remodelling Scheme (CARS)
 **NR GRIP stage 3.** The scheme includes an addition of two main lines, a new high standard station and several OSD high-rise building to achieve a commercially appealing proposal. 
 As part of a multi-disciplinary team, my current role is to provide structural input to develop options for addressing constraints and to select the most appropriate option. This includes Participating in station design and constructability meetings with NR, WW+P and Costain, and day-to-day co-ordination with the Architects.
 **Design Elements:**
 -	Design the concourse and podium structures over the platform level that will support the OSD.
 -	High level OSD high-rise building design. 
 
-Crossrail, Farringdon station 
+#### Crossrail, Farringdon station 
 Back of House designer and technical support. I was mainly responsible for the low-level design of various steel structures and elements across the entire station (i.e. CAT ladders, Fall-arrest systems, platforms, fixing testing etc.). The design often required non-standard approach and deviation from the Standards which led to frequent site visits, advance FEM modelling and site testing.
 I was also participating in Design meetings with the Main Contractor and sub-contractors, which also included joined workshops and site walks. 
 
@@ -85,6 +85,6 @@ Driver Only Operation system included the re-design of 9 stations existing stati
 **Enfield Care Home, Three-storey new-build, London**
 Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg4ODk5MDIsLTQ1NDAwNjkxMSwxNz
-U5NjYwNDYxLDEyMjE2NDk0NDddfQ==
+eyJoaXN0b3J5IjpbMTE5ODA2MDQ0NiwtMjExODg4OTkwMiwtND
+U0MDA2OTExLDE3NTk2NjA0NjEsMTIyMTY0OTQ0N119
 -->
