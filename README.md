@@ -1,5 +1,4 @@
-Spyros Gavriilidis
-===
+# Spyros Gavriilidis
 ## Structural Engineer
 
 #### Profile
@@ -118,5 +117,5 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY1ODUxMV19
+eyJoaXN0b3J5IjpbLTEzOTk3ODU0NjNdfQ==
 -->
