@@ -43,8 +43,8 @@ He also specialises in software and automation development, looking to drive inn
  </tr>
 </table>
 
-Experience with Atkins (Jan 2014 - to present)
----
+## Experience with Atkins (Jan 2014 - to present)
+
 **Croydon Area Remodelling Scheme (CARS)** 
 **NR GRIP stage 3.** The scheme includes an addition of two main lines, a new high standard station and several OSD high-rise building to achieve a commercially appealing proposal. 
 As part of a multi-disciplinary team, my current role is to provide structural input to develop options for addressing constraints and to select the most appropriate option. This includes Participating in station design and constructability meetings with NR, WW+P and Costain, and day-to-day co-ordination with the Architects.
@@ -83,8 +83,42 @@ Leading engineer for Stepping and Gauging automation. Team consisted of 13 civil
 Driver Only Operation system included the re-design of 9 stations existing stations, form Stratford to Shenfield. I was part of a team which was responsible of the installation of the new cameras and mounting arms, Equipment Cabinet and the Leaky Feeder cable. My responsibilities consisted of assessing the existing canopy infrastructure, propose design for the installation, coordinate between the civils, telecom and MEP disciplines and managed a team of CAD technician for the production of civil drawings.
 
 **Enfield Care Home, Three-storey new-build, London**
-Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis
+Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis model of the structure with Robot and development of a complete Revit Structural model. Lead coordinator for the Architectural, MEP and Structures BIM models. Production of complete structural drawing package. Technical support through TQs during construction stage.
+* **Boundary retaining walls**
+Retaining walls design of masonry and reinforced concrete, development of Revit model and production of   concrete detailing and BBS.
+
+**Birmingham New Street Station, Structural Assessments**
+Seconded to Birmingham office for two months to support the structural team with RFIs and various structural assessments including wind load assessments, change of use and steel foundation for new plant loading.
+
+**Birmingham New Street Station, Taxi loop slab and foundation**
+Seconded to Oxford office for two weeks to assist with the design and development of the Revit model of a composite slab, steel beam and concrete foundation detailing.
+
+**Edgbarrow Squash Courts Conversion**
+Management of a squash court conversion project which included a small team of a graduate engineer and a cad technician. I was the point of contact for the client, responsible for the cost estimation and resourcing of the project.
+
+**Singlegate Primary School Ph2, New/refurbishment of two- storey build extension design**
+Assisting with the design and producing complete package of structural drawing. Leading engineer for construction technical support as of Feb 2015.
+
+**Duke Street offices, Chelmsford**
+Carried out a structural assessment of a 4-storey Victorian building for a change of use from residential to commercial offices.
+
+**Guilford College, Construction and technology block refurbishment:** Structural design assessments and drawing development of modular structures and RC retaining walls.
+
+**Structural Surveys:** Conducted multiple Structural Surveys and generated Structural Reports.
+
+**Palmers Green Library, Structural amendments, Design of external staircase and lift:** Structural drawings production.
+
+## Experience before Atkins (2011 – 2013)
+**Commercial**
+7/2013: Structural Engineer, Domenica Group, Cyprus, _€3M_
+Structural analysis of commercial 3-storey shopping and offices centre. Responsible for the production of Scheme Design & Tender package.
+
+**Residential**
+1/2012-9/2013: Structural Engineer, Domenica Group, _€100K-1M_
+Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTQ0ODQxMCwtMjExODg4OTkwMiwtND
-U0MDA2OTExLDE3NTk2NjA0NjEsMTIyMTY0OTQ0N119
+eyJoaXN0b3J5IjpbLTExODY1ODUxMSwxNjU1NDQ4NDEwLC0yMT
+E4ODg5OTAyLC00NTQwMDY5MTEsMTc1OTY2MDQ2MSwxMjIxNjQ5
+NDQ3XX0=
 -->
