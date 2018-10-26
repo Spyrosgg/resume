@@ -1,7 +1,7 @@
 # Spyros Gavriilidis
 ## Structural Engineer
 
-#### Profile
+**Profile**  
 Spyros has extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project.  
 He also specialises in software and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail KO1 delivery.
 
@@ -122,6 +122,6 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzU1NjYwNywyMzYzMTI0MTEsLTkzMD
-czOTQ3MSwtMTM5OTc4NTQ2M119
+eyJoaXN0b3J5IjpbNDY4MDc1NDcxLDIzNjMxMjQxMSwtOTMwNz
+M5NDcxLC0xMzk5Nzg1NDYzXX0=
 -->
