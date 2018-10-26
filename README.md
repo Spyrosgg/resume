@@ -51,8 +51,9 @@ As part of a multi-disciplinary team, my current role is to provide structural i
 -	Design the concourse and podium structures over the platform level that will support the OSD.
 -	High level OSD high-rise building design. 
 
-**Crossrail, Farringdon station**
-Back of House designer and technical support. I was mainly responsible for the low-level design of various steel structures and elements across the entire station (i.e. CAT ladders, Fall-arrest systems, platforms, fixing testing etc.). The design often required non-standard approach and deviation from the Standards which led to frequent site visits, advance FEM modelling and site testing.
+#### Crossrail, Farringdon station** 
+**Designer and technical support**
+I was mainly responsible for the low-level design of various steel structures and elements across the entire station (i.e. CAT ladders, Fall-arrest systems, platforms, fixing testing etc.). The design often required non-standard approach and deviation from the Standards which led to frequent site visits, advance FEM modelling and site testing.
 I was also participating in Design meetings with the Main Contractor and sub-contractors, which also included joined workshops and site walks. 
 
 **Farringdon, Steel Fabricators support.** I was responsible to review the detail design and to coordinated between the Principal Designer (Atkins) and the sub-contractors (Steel Fabricators). I was travelling to the sub-contractor’s offices twice a week to provide guidance and preliminary comments that improved the design and accelerated the submission process. 
@@ -117,5 +118,5 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk3ODU0NjNdfQ==
+eyJoaXN0b3J5IjpbMTEwMzY0MTM4MSwtMTM5OTc4NTQ2M119
 -->
