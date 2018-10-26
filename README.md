@@ -45,14 +45,14 @@ He also specialises in software and automation development, looking to drive inn
 ## Experience with Atkins (Jan 2014 - to present)
 
 **Croydon Area Remodelling Scheme (CARS)** 
-**NR GRIP stage 3.** The scheme includes an addition of two main lines, a new high standard station and several OSD high-rise building to achieve a commercially appealing proposal. 
+- **NR GRIP stage 3.** The scheme includes an addition of two main lines, a new high standard station and several OSD high-rise building to achieve a commercially appealing proposal. 
 As part of a multi-disciplinary team, my current role is to provide structural input to develop options for addressing constraints and to select the most appropriate option. This includes Participating in station design and constructability meetings with NR, WW+P and Costain, and day-to-day co-ordination with the Architects.
-**Design Elements:**
--	Design the concourse and podium structures over the platform level that will support the OSD.
--	High level OSD high-rise building design. 
+- **Design Elements:**
+	-	Design the concourse and podium structures over the platform level that will support the OSD.
+	-	High level OSD high-rise building design. 
   
 
-**Crossrail, Farringdon station**
+### Crossrail, Farringdon station
 - **Designer and technical support.** I was mainly responsible for the low-level design of various steel structures and elements across the entire station (i.e. CAT ladders, Fall-arrest systems, platforms, fixing testing etc.). The design often required non-standard approach and deviation from the Standards which led to frequent site visits, advance FEM modelling and site testing.
 I was also participating in Design meetings with the Main Contractor and sub-contractors, which also included joined workshops and site walks. 
 - **Farringdon, Steel Fabricators support.** I was responsible to review the detail design and to coordinated between the Principal Designer (Atkins) and the sub-contractors (Steel Fabricators). I was travelling to the sub-contractor’s offices twice a week to provide guidance and preliminary comments that improved the design and accelerated the submission process. 
@@ -89,10 +89,11 @@ Structural design of a three story care home centre, both in traditional masonry
 * **Boundary retaining walls**
 Retaining walls design of masonry and reinforced concrete, development of Revit model and production of   concrete detailing and BBS.
 
-**Birmingham New Street Station, Structural Assessments**
+### Birmingham New Street Station  
+- **Structural Assessments**
 Seconded to Birmingham office for two months to support the structural team with RFIs and various structural assessments including wind load assessments, change of use and steel foundation for new plant loading.
 
-**Birmingham New Street Station, Taxi loop slab and foundation**
+- **Birmingham New Street Station, Taxi loop slab and foundation**
 Seconded to Oxford office for two weeks to assist with the design and development of the Revit model of a composite slab, steel beam and concrete foundation detailing.
 
 **Edgbarrow Squash Courts Conversion**
@@ -120,6 +121,6 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNDczNDI2LDIzNjMxMjQxMSwtOTMwNz
-M5NDcxLC0xMzk5Nzg1NDYzXX0=
+eyJoaXN0b3J5IjpbLTEwNjQ3NjExMjAsMjM2MzEyNDExLC05Mz
+A3Mzk0NzEsLTEzOTk3ODU0NjNdfQ==
 -->
