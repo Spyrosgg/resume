@@ -44,7 +44,7 @@ He also specialises in software and automation development, looking to drive inn
 
 ## Experience with Atkins (Jan 2014 - to present)
 
-**Croydon Area Remodelling Scheme (CARS)** 
+### Croydon Area Remodelling Scheme (CARS)** 
 - **NR GRIP stage 3.** The scheme includes an addition of two main lines, a new high standard station and several OSD high-rise building to achieve a commercially appealing proposal. 
 As part of a multi-disciplinary team, my current role is to provide structural input to develop options for addressing constraints and to select the most appropriate option. This includes Participating in station design and constructability meetings with NR, WW+P and Costain, and day-to-day co-ordination with the Architects.
 - **Design Elements:**
@@ -68,10 +68,10 @@ Design structural engineer for a 13m long existing steel truss footbridge assess
 **University of Essex, Parkside Phase 2**
 Lead engineer for the development and progression of the preliminary drawings to a finished construction package. The project consisted o two new-build blocks of two storey steel structures buildings.
 
-**Crossrail Anglia, Pudding Mill Lane, GRIP 5 design package**
+### Crossrail
+- **Crossrail Anglia, Pudding Mill Lane, GRIP 5 design package**
 Design engineer for several OLE structures and signal gantries which were required to be modified or replaced to allow for the new Crossrail tracks and the re-aligned Down and Up Electric lines to operate. Project main specialisation were steel frame, connection and foundation design
 
-### Crossrail
 - **Crossrail West Bid**
 Member of the bid team for the Crossrail West project which consisted of the re-development of six stations. I was responsible for the assessment of the required enabling works, costs and effective programme development for the tight schedule. Achieving a high level of constructive challenge the team managed to submitted a strong offer to Network Rail.
 
@@ -84,7 +84,8 @@ Leading engineer for Stepping and Gauging automation. Team consisted of 13 civil
 - **Crossrail Anglia, DOO**
 Driver Only Operation system included the re-design of 9 stations existing stations, form Stratford to Shenfield. I was part of a team which was responsible of the installation of the new cameras and mounting arms, Equipment Cabinet and the Leaky Feeder cable. My responsibilities consisted of assessing the existing canopy infrastructure, propose design for the installation, coordinate between the civils, telecom and MEP disciplines and managed a team of CAD technician for the production of civil drawings.
 
-**Enfield Care Home, Three-storey new-build, London**
+### Enfield Care Home, Three-storey new-build, London
+- **New-build**
 Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis model of the structure with Robot and development of a complete Revit Structural model. Lead coordinator for the Architectural, MEP and Structures BIM models. Production of complete structural drawing package. Technical support through TQs during construction stage.
 * **Boundary retaining walls**
 Retaining walls design of masonry and reinforced concrete, development of Revit model and production of   concrete detailing and BBS.
@@ -121,6 +122,6 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ3NjExMjAsMjM2MzEyNDExLC05Mz
-A3Mzk0NzEsLTEzOTk3ODU0NjNdfQ==
+eyJoaXN0b3J5IjpbOTI2MzYwNzU1LDIzNjMxMjQxMSwtOTMwNz
+M5NDcxLC0xMzk5Nzg1NDYzXX0=
 -->
