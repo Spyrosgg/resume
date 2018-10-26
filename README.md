@@ -19,7 +19,8 @@ He also specialises in software and automation development, looking to drive inn
      <li>Design of steel and reinforced concrete frames.</li>
      <br>
      <li>Design & assessment of structural elements in a variety of materials.</li><br>
-     <li>FE Analysis of structures: Robot Structural Engineer, SAP2000.</li><br>
+     <li>FE Analysis of structures: Robot Structural Engineer, <br>
+     SAP2000.</li><br>
      <li>Algorithm/ Software development: Excel, MATLAB, Python.</li><br>
      <li>Automation process development.</li><br>
      <li>Advanced BIM/Revit knowledge.</li><br>
@@ -44,7 +45,7 @@ He also specialises in software and automation development, looking to drive inn
 
 ## Experience with Atkins (Jan 2014 - to present)
 
-### Croydon Area Remodelling Scheme (CARS)** 
+### Croydon Area Remodelling Scheme (CARS)
 - **NR GRIP stage 3.** The scheme includes an addition of two main lines, a new high standard station and several OSD high-rise building to achieve a commercially appealing proposal. 
 As part of a multi-disciplinary team, my current role is to provide structural input to develop options for addressing constraints and to select the most appropriate option. This includes Participating in station design and constructability meetings with NR, WW+P and Costain, and day-to-day co-ordination with the Architects.
 - **Design Elements:**
@@ -122,6 +123,6 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4MDc1NDcxLDIzNjMxMjQxMSwtOTMwNz
-M5NDcxLC0xMzk5Nzg1NDYzXX0=
+eyJoaXN0b3J5IjpbLTc5NzA5NDcxMyw0NjgwNzU0NzEsMjM2Mz
+EyNDExLC05MzA3Mzk0NzEsLTEzOTk3ODU0NjNdfQ==
 -->
