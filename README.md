@@ -71,16 +71,17 @@ Lead engineer for the development and progression of the preliminary drawings to
 **Crossrail Anglia, Pudding Mill Lane, GRIP 5 design package**
 Design engineer for several OLE structures and signal gantries which were required to be modified or replaced to allow for the new Crossrail tracks and the re-aligned Down and Up Electric lines to operate. Project main specialisation were steel frame, connection and foundation design
 
-**Crossrail West Bid**
+### Crossrail
+- **Crossrail West Bid**
 Member of the bid team for the Crossrail West project which consisted of the re-development of six stations. I was responsible for the assessment of the required enabling works, costs and effective programme development for the tight schedule. Achieving a high level of constructive challenge the team managed to submitted a strong offer to Network Rail.
 
-**Crossrail Anglia, Platform Extensions**
+- **Crossrail Anglia, Platform Extensions**
 Lead engineer in ET for the impact assessment of the platform extensions offsets from the rail running, evaluation of the options to achieve requirements, provide recommendations for construction and proposals for related design work.
 
-**Crossrail Anglia, KO1 Stepping & Gauging**
+- **Crossrail Anglia, KO1 Stepping & Gauging**
 Leading engineer for Stepping and Gauging automation. Team consisted of 13 civil and 2 software engineers in GDC for the development of new tools for the analysis and presentation of the large data. Several spreadsheets (PROP, POP, SOP & SECplot) were developed which helped the civils team generate the impact assessments and present the findings to RSSB for approval.
 
-**Crossrail Anglia, DOO**
+- **Crossrail Anglia, DOO**
 Driver Only Operation system included the re-design of 9 stations existing stations, form Stratford to Shenfield. I was part of a team which was responsible of the installation of the new cameras and mounting arms, Equipment Cabinet and the Leaky Feeder cable. My responsibilities consisted of assessing the existing canopy infrastructure, propose design for the installation, coordinate between the civils, telecom and MEP disciplines and managed a team of CAD technician for the production of civil drawings.
 
 **Enfield Care Home, Three-storey new-build, London**
@@ -119,6 +120,6 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2MzEyNDExLC05MzA3Mzk0NzEsLTEzOT
-k3ODU0NjNdfQ==
+eyJoaXN0b3J5IjpbMzMzNDczNDI2LDIzNjMxMjQxMSwtOTMwNz
+M5NDcxLC0xMzk5Nzg1NDYzXX0=
 -->
