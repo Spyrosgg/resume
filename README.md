@@ -51,12 +51,13 @@ As part of a multi-disciplinary team, my current role is to provide structural i
 -	Design the concourse and podium structures over the platform level that will support the OSD.
 -	High level OSD high-rise building design. 
 
-#### Crossrail, Farringdon station
+**Crossrail, Farringdon station
 **Designer and technical support**
 I was mainly responsible for the low-level design of various steel structures and elements across the entire station (i.e. CAT ladders, Fall-arrest systems, platforms, fixing testing etc.). The design often required non-standard approach and deviation from the Standards which led to frequent site visits, advance FEM modelling and site testing.
 I was also participating in Design meetings with the Main Contractor and sub-contractors, which also included joined workshops and site walks. 
-
 **Farringdon, Steel Fabricators support.** I was responsible to review the detail design and to coordinated between the Principal Designer (Atkins) and the sub-contractors (Steel Fabricators). I was travelling to the sub-contractor’s offices twice a week to provide guidance and preliminary comments that improved the design and accelerated the submission process. 
+
+**UK memorial**
 
 **Hinkley Point C nuclear power station (HPC)**
 CAT1 check engineer for calculations on the "special" steel joints for beams N11 and N17. The joints were required to transmit axial forces, shear forces and twisting moment from the beam into the column.
@@ -118,5 +119,6 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDczOTQ3MSwtMTM5OTc4NTQ2M119
+eyJoaXN0b3J5IjpbNDM0OTU5MDE1LC05MzA3Mzk0NzEsLTEzOT
+k3ODU0NjNdfQ==
 -->
