@@ -4,10 +4,10 @@
 Spyros has extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project.
 He also specialises in software and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail KO1 delivery.
 
-<div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 740px">
+<div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 900px">
 <colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
+<col style="width: 450px">
+<col style="width: 450px">
 </colgroup>
   <tr>
     <th class="tg-5ua9">Key Experience</th>
