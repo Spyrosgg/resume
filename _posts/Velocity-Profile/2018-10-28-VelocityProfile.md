@@ -3,9 +3,7 @@ layout: post
 title:  "Velocity Profile"
 date:   2018-10-27 15:00:00 +0100
 --- 
-
-<!DOCTYPE html
-  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+  
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -301,7 +299,7 @@ title(<span class="string">'Compound open-channel velocity profile'</span>);
             Published with MATLAB&reg; 7.7<br></p>
       </div>
 
-![Plot](/assets/VelocityProfile_01.png)
+
 
       <!--
 ##### SOURCE BEGIN #####
@@ -512,3 +510,5 @@ title('Compound open-channel velocity profile');
 -->
    </body>
 </html>
+
+![Plot](/assets/VelocityProfile_01.png)

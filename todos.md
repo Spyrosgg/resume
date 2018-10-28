@@ -4,11 +4,10 @@
   permalink: /todos/
 ---
 
-### Shrot-term List:
+### Now List:
 
 - [ ] Refine Resume.
 - [ ] Progress with ICE applications.
 
-### long-term List:
+### Later List:
 - [ ] Submit ICE applications.
-- [ ] Move
