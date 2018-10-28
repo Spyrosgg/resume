@@ -1,15 +1,8 @@
----
-layout: page
-title:  My Resume
-permalink: /resume/
----
-
 ## Structural Engineer
 
 **Profile**  
 Spyros has extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project.
 He also specialises in software and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail KO1 delivery.
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
@@ -41,7 +34,6 @@ He also specialises in software and automation development, looking to drive inn
      <li>Assessment of structural elements in a variety of materials.</li>
    </ul>
     </td>
-    
     <td class="tg-s268">
     <b>Profesion</b><br>
     Civil /Structural Engineer<br>
