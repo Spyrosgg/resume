@@ -6,8 +6,8 @@ He also specialises in software and automation development, looking to drive inn
 
 <div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 740px">
 <colgroup>
-<col style="width: 365px">
-<col style="width: 365px">
+<col style="width: 400px">
+<col style="width: 400px">
 </colgroup>
   <tr>
     <th class="tg-5ua9">Key Experience</th>
