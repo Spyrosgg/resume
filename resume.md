@@ -4,6 +4,8 @@ title:  My Resume
 permalink: /resume/
 ---
 
+![Plot](/assets/VelocityProfile_01.png)  
+
 ## Structural Engineer
 
 **Profile**  
