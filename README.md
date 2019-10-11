@@ -1,4 +1,4 @@
 ## My Site
 
- - [ ] My Resume 
+ - [x] My Resume 
 
