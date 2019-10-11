@@ -1,5 +1,4 @@
 ## My Site
 
-My Resume 
+ -[ ] My Resume 
 
-o konstantinos einai gay
