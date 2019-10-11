@@ -1,64 +1,8 @@
----
-layout: page
-title:  My Resume
-permalink: /resume/
----
-
 ## Structural Engineer
 
 **Profile**  
 Spyros has extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project.
 He also specialises in software and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail KO1 delivery.
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 20px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 20px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-.tg .tg-5ua9{font-weight:bold;text-align:left}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-s268{text-align:left}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
-<div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 606px">
-<colgroup>
-<col style="width: 365px">
-<col style="width: 365px">
-</colgroup>
-  <tr>
-    <th class="tg-5ua9">Key Experience</th>
-    <th class="tg-5ua9">Information</th>
-  </tr>
-  <tr>
-    <td class="tg-0lax">
-    <ul>
-     <li>Experience in Concept and Detail design; large and small-scale structures</li>
-     <li>Experience working on Crossrail and LUL on various NR projects</li>
-     <li>Algorithm/ Software development: Excel, Matlab, Python</li>
-     <li>Automation Process development</li>
-     <li>Advanced BIM/Revit development</li>
-     <li>FE Analysis of structures: Robot Structural Engineer, SAP2000</li>
-     <li>Proficient in Revit, CAD</li>
-     <li>Assessment of structural elements in a variety of materials.</li>
-   </ul>
-    </td>
-    
-    <td class="tg-s268">
-    <b>Profesion</b><br>
-    Civil /Structural Engineer<br>
-    <b>Nationality / Languages</b><br>
-    Hellenic<br>
-    Greek - mothertongue<br> 
-    English - fluent<br>
-    Russian – Spoken<br>
-    <b> Qualifications and date achieved</b><br>
-    Master of Engineering (MEng, 5 year) in Civil Engineering (2010) – University of Patras, Greece.<br>
-    CSCS, PTS card.<br>
-    <b>Professional Associations</b><br>
-    Technical Chamber of Cyprus in Civil Engineering.<br>
-    Near Chartership with ICE.</td>
-  </tr>
-</table></div>
-
 
 ## Experience with Atkins (Jan 2014 - to present)
 
@@ -139,7 +83,3 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 1/2012-9/2013: Structural Engineer, Domenica Group, _€100K-1M_
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzA5NDcxMyw0NjgwNzU0NzEsMjM2Mz
-EyNDExLC05MzA3Mzk0NzEsLTEzOTk3ODU0NjNdfQ==
--->
