@@ -1,12 +1,21 @@
 # Structural Engineer
+spyrosgg@gmail.com | London, UK
+
 
 **Profile**  
-Spyros has extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project.
-He also specialises in software and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail KO1 delivery.
+Spyros has extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in software and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail KO1 delivery.
 
-# Experience with Atkins (Jan 2014 - to present)
+## Experience with Atkins (Jan 2014 - to present)
+
+### Heathrow Extension Project (HEP)
+_**Lead Structures Engineer**_
+- **Riba stage 2**. Leading the structural concept design of 60 plus facilities for the new Heathrow extension plan. 
+- The facilities include hotels, fire-fighting station, two story warehouse, offices, residential and various other supplementary facilities.
+- The structural design includes optioneering assessment of various structural methods and materials. 
+- One of main client requirements is to maintain and normalise the construction to reduce cost and waste. I have developed various DfMA methods such as maintain standard column grids, designing compartments off-site, using steel for speed of design and many other. 
 
 ### Croydon Area Remodelling Scheme (CARS)
+_**Lead Structures Engineer**_
 - **NR GRIP stage 3.** The scheme includes an addition of two main lines, a new high standard station and several OSD high-rise building to achieve a commercially appealing proposal.
 As part of a multi-disciplinary team, my current role is to provide structural input to develop options for addressing constraints and to select the most appropriate option. This includes Participating in station design and constructability meetings with NR, WW+P and Costain, and day-to-day co-ordination with the Architects.
 - **Design Elements:**
@@ -14,20 +23,20 @@ As part of a multi-disciplinary team, my current role is to provide structural i
 	-	High level OSD high-rise building design.
 
 
-### Crossrail, Farringdon station
+### Crossrail, Farringdon station (FAR)
+_**Lead Structures Engineer**_
+
 - **Designer and technical support.** I was mainly responsible for the low-level design of various steel structures and elements across the entire station (i.e. CAT ladders, Fall-arrest systems, platforms, fixing testing etc.). The design often required non-standard approach and deviation from the Standards which led to frequent site visits, advance FEM modelling and site testing.
 I was also participating in Design meetings with the Main Contractor and sub-contractors, which also included joined workshops and site walks.
 - **Farringdon, Steel Fabricators support.** I was responsible to review the detail design and to coordinated between the Principal Designer (Atkins) and the sub-contractors (Steel Fabricators). I was travelling to the sub-contractor’s offices twice a week to provide guidance and preliminary comments that improved the design and accelerated the submission process.
 
-**UK memorial**
-
-**Hinkley Point C nuclear power station (HPC)**
+### Hinkley Point C nuclear power station (HPC)
 CAT1 check engineer for calculations on the "special" steel joints for beams N11 and N17. The joints were required to transmit axial forces, shear forces and twisting moment from the beam into the column.
 
-**Tilbury footbridge**
+### Tilbury footbridge
 Design structural engineer for a 13m long existing steel truss footbridge assessment. The bridge had a deformed member, extensive rust and was slightly curved from a boat collision in the past. I have created a detailed FEM model to successfully assess the bridge.
 
-**University of Essex, Parkside Phase 2**
+### University of Essex, Parkside Phase 2
 Lead engineer for the development and progression of the preliminary drawings to a finished construction package. The project consisted o two new-build blocks of two storey steel structures buildings.
 
 ### Crossrail
@@ -83,3 +92,4 @@ Structural analysis of commercial 3-storey shopping and offices centre. Responsi
 1/2012-9/2013: Structural Engineer, Domenica Group, _€100K-1M_
 Design and analysis of 2&3 storey residential buildings.  Supervision of rebar installation and concrete casting. Responsible for the production of Scheme Design & Tender package. Planning permissions and construction permits applications.
 
+		
