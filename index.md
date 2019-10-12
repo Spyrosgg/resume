@@ -22,6 +22,7 @@ As part of a multi-disciplinary team, my current role is to provide structural i
 	-	Design the concourse and podium structures over the platform level that will support the OSD.
 	-	High level OSD high-rise building design.
 
+### UCL PEAR 
 
 ### Crossrail, Farringdon station (FAR)
 _**Lead Structures Engineer**_
@@ -32,9 +33,6 @@ I was also participating in Design meetings with the Main Contractor and sub-con
 
 ### Hinkley Point C nuclear power station (HPC)
 CAT1 check engineer for calculations on the "special" steel joints for beams N11 and N17. The joints were required to transmit axial forces, shear forces and twisting moment from the beam into the column.
-
-### Tilbury footbridge
-Design structural engineer for a 13m long existing steel truss footbridge assessment. The bridge had a deformed member, extensive rust and was slightly curved from a boat collision in the past. I have created a detailed FEM model to successfully assess the bridge.
 
 ### University of Essex, Parkside Phase 2
 Lead engineer for the development and progression of the preliminary drawings to a finished construction package. The project consisted o two new-build blocks of two storey steel structures buildings.
@@ -68,20 +66,9 @@ Seconded to Birmingham office for two months to support the structural team with
 - **Birmingham New Street Station, Taxi loop slab and foundation**
 Seconded to Oxford office for two weeks to assist with the design and development of the Revit model of a composite slab, steel beam and concrete foundation detailing.
 
-**Edgbarrow Squash Courts Conversion**
-Management of a squash court conversion project which included a small team of a graduate engineer and a cad technician. I was the point of contact for the client, responsible for the cost estimation and resourcing of the project.
+### Structural Surveys 
+Conducted multiple Structural Surveys and generated Structural Reports.
 
-**Singlegate Primary School Ph2, New/refurbishment of two- storey build extension design**
-Assisting with the design and producing complete package of structural drawing. Leading engineer for construction technical support as of Feb 2015.
-
-**Duke Street offices, Chelmsford**
-Carried out a structural assessment of a 4-storey Victorian building for a change of use from residential to commercial offices.
-
-**Guilford College, Construction and technology block refurbishment:** Structural design assessments and drawing development of modular structures and RC retaining walls.
-
-**Structural Surveys:** Conducted multiple Structural Surveys and generated Structural Reports.
-
-**Palmers Green Library, Structural amendments, Design of external staircase and lift:** Structural drawings production.
 
 ## Experience before Atkins (2011 – 2013)
 **Commercial**
