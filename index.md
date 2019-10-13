@@ -1,5 +1,5 @@
 # Structural Engineer
-[spyrosgg@gmail.com](spyrosgg@gmail.com) | London, UK
+<spyrosgg@gmail.com> | London, UK
 
 
 **Profile**  
