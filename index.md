@@ -1,5 +1,7 @@
-Structural Engineer
-=====================
+Spyros Gavriilidis
+==================
+Senior Structural Engineer
+----
 <spyrosgg@gmail.com> | London, UK
 
 
