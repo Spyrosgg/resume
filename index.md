@@ -1,3 +1,24 @@
+
+
+
+<style>
+.test {
+	color:red;
+	font-size:20px;
+	}
+.test2 {
+	fornt-size:10px;
+	}
+</style>	
+<span class="test"> 
+spyros	
+</span>
+<span class="test2" style="color:red">
+gavriilidis	
+</span>
+
+---
+
 # Spyros Gavriilidis _MEng CEng MICE_
 ## Senior Structural Engineer | BIM manager 
 <spyrosgg@gmail.com> | London, UK  
