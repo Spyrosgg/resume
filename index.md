@@ -9,7 +9,7 @@
 	}
 
 .container {
-	border-bottom: solid lightgrey 1px;
+	border-bottom: solid #EAECEF 1px;
 	padding-bottom: 0px;
 }
 </style>
