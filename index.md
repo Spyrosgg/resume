@@ -12,6 +12,14 @@
 	border-bottom: solid #EAECEF 1px;
 	padding-bottom: 0px;
 }
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
 </style>
 
 <div class="container">
