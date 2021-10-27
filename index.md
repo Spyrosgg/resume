@@ -6,11 +6,15 @@
 .sub {
 <!-- 	fornt-size:1em; -->
 	}
+.hr1 {
+	border: 0;
+  	border-top: 1px solid #CCC;
+}
 </style>
 
 <span class="name"> Spyros Gavriilidis </span>
 <span class="sub">MEng CEng MICE</span>
-<hr>
+<hr class="hr1">
 
 ## Senior Structural Engineer | BIM manager 
 <spyrosgg@gmail.com> | London, UK  
