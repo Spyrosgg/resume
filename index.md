@@ -1,6 +1,6 @@
 
 # Spyros Gavriilidis
-## Senior Structural Engineer
+## Senior Structural Engineer | BIM manager
 <spyrosgg@gmail.com> | London, UK
 
 ### Profile  
