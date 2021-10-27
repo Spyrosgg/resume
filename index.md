@@ -12,14 +12,6 @@
 	border-bottom: solid #EAECEF 1px;
 	padding-bottom: 0px;
 }
----
----
-
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}
 </style>
 
 <div class="container">
@@ -92,7 +84,7 @@ Retaining walls design of masonry and reinforced concrete, development of Revit 
 ### `Structural Surveys` 
 Conducted multiple Structural Surveys and generated Structural Reports.
 
-## [Domenica Group](https://www.domenicagroup.com), Cyprus (2011 – 2013) 
+## [G&V Hadjidemosthenous Ltd](https://www.domenicagroup.com), Cyprus (2011 – 2013) 
 
 ### `Commercial/Residential Design`
 _**Structural Engineer**_  
