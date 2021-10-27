@@ -2,6 +2,7 @@
 .name {
  	font-size: 2em;
 	font-weight: bold;
+	margin-bottom: 0px;
 	}
 .sub {
 <!-- 	fornt-size:1em; -->
@@ -12,7 +13,7 @@
 }
 </style>
 
-<span class="name"> Spyros Gavriilidis </span>
+<span class="name"> Spyros2 Gavriilidis </span>
 <span class="sub">MEng CEng MICE</span>
 <hr class="hr1">
 
