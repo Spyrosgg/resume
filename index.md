@@ -1,9 +1,10 @@
 <style>
 .name {
-	font-size:3em;
+	font-size:2em;
+	font-weight:bold;
 	}
 .sub {
-	fornt-size:0.7em;
+<!-- 	fornt-size:1em; -->
 	}
 </style>
 
@@ -13,9 +14,6 @@ MEng CEng MICE
 </span>
 
 
----
-
-# Spyros Gavriilidis _MEng CEng MICE_
 ## Senior Structural Engineer | BIM manager 
 <spyrosgg@gmail.com> | London, UK  
 
