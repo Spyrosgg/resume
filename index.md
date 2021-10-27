@@ -1,7 +1,6 @@
-
-# Spyros Gavriilidis
-## Senior Structural Engineer | BIM manager
-<spyrosgg@gmail.com> | London, UK
+# Spyros Gavriilidis _MEng CEng MICE_
+## Senior Structural Engineer | BIM manager 
+<spyrosgg@gmail.com> | London, UK  
 
 ### Profile  
 Spyros is a chartered engineer with extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in BIM and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail delivery.
@@ -92,4 +91,4 @@ design, co-designed and maintain Company’s website; Graphic design, Designed C
 
 ## SKILLS & INTERESTS
 - **Skills:**  BIM; Automation; Strategic planning; management;
-- **Interests:** Socioeconomics, geopolitics & technology; DIY; snowboarding, skateboarding & climbing.
+- **Interests:** Socioeconomics, technology; DIY; snowboarding, skateboarding & climbing.
