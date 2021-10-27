@@ -1,7 +1,12 @@
 <style>
 .name {
-	font-size:2em;
-	font-weight:bold;
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
 	}
 .sub {
 <!-- 	fornt-size:1em; -->
