@@ -1,21 +1,17 @@
-
-
-
 <style>
-.test {
-	color:red;
-	font-size:20px;
+.name {
+	font-size:3em;
 	}
-.test2 {
-	fornt-size:10px;
+.sub {
+	fornt-size:0.7em;
 	}
-</style>	
-<span class="test"> 
-spyros	
+</style>
+
+<span class="name"> Spyros Gavriilidis </span>
+<span class="sub">
+MEng CEng MICE
 </span>
-<span class="test2" style="color:red">
-gavriilidis	
-</span>
+
 
 ---
 
