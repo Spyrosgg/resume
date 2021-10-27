@@ -1,21 +1,23 @@
 <style>
 .name {
- 	font-size: 2em;
+	font-size: 2em;
 	font-weight: bold;
-	margin-bottom: 0px;
+	margin-bottom: -50px;
 	}
 .sub {
-<!-- 	fornt-size:1em; -->
+	font-size:1em;
 	}
-.hr1 {
-	border: 0;
-  	border-top: 1px solid #CCC;
+
+.container {
+	border-bottom: solid lightgrey 1px;
+	padding-bottom: 0px;
 }
 </style>
 
-<span class="name"> Spyros2 Gavriilidis </span>
+<div class="container">
+<span class="name"> Spyros Gavriilidis </span>
 <span class="sub">MEng CEng MICE</span>
-<hr class="hr1">
+</div>
 
 ## Senior Structural Engineer | BIM manager 
 <spyrosgg@gmail.com> | London, UK  
