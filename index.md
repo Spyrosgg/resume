@@ -82,7 +82,7 @@ Retaining walls design of masonry and reinforced concrete, development of Revit 
 
 - **Taxi Loop Extension.** Seconded to Oxford office for two weeks to assist with the design and development of the Revit model of a composite slab, steel beam and concrete foundation detailing.
 
-### `Structural Surveys` 
+### `Structural Surveys | Mace, Local Councils` 
 Conducted multiple Structural Surveys and generated Structural Reports.
 
 ## [Domenica Group](https://www.domenicagroup.com), Cyprus (2011 – 2013) 
