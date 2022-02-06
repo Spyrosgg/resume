@@ -20,7 +20,7 @@
 </div>
 
 ## Senior Structural Engineer | BIM manager 
-<spyrosgg@icloud.com> | London, UK & Athens, Greece
+<spyrosgg@icloud.com> | London, UK & Athens, Greece  
 [online resume](https://spyrosgg.github.io/resume/)
 
 ### Profile  
