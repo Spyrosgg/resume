@@ -27,7 +27,7 @@ online resume: <https://spyrosgg.github.io/resume/>
 Spyros is a chartered engineer with extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in BIM and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail delivery.
 
 ## WORKING EXPERIENCE
-## [Atkins](https://www.atkinsglobal.com/), UK (Jan 2014 - to present)
+## [Atkins](https://www.atkinsglobal.com/), UK (Jan 2014 - Dec 2021)
 
 ### `Heathrow Extension Project (HEP)`
 _**Lead Structures Engineer**_
