@@ -21,7 +21,7 @@
 
 ## Senior Civil/Structural Engineer | BIM manager
 
-<spyrosgg@gmail.com> | London, UK & Athens, Greece
+<code><spyrosgg@gmail.com> | London, UK & Athens, Greece</code>
 
 ### Profile
 
