@@ -27,7 +27,7 @@
 
 Spyros is a chartered engineer with extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in BIM and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail delivery.
 
-</br>
+<br>
 
 ## WORKING EXPERIENCE
 
@@ -123,7 +123,7 @@ _**Structural Engineer**_
 
 **Site Engineer Assistant.** During the summer season, I was working as the assistant of the Senior Site Engineer of Ha Potami, a residential complex which consisted of 150 villas. My responsibilities covert assisting the Senior Site Engineer with construction supervision, land surveying and quantity surveying. I also voluntarily worked as a construction worker helping with rebar, masonry and tiles installation.
 
-</br>
+<br>
 
 ## LICENSES & CERTIFICATIONS
 
