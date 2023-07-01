@@ -113,8 +113,8 @@ Conducted multiple Structural Surveys and generated Structural Reports.
 
 _**Structural Engineer**_
 
-- **Main Responsibilities.**Structural analysis of a commercial 3-storey shopping and offices centre (€3M); Design and analysis of 2&3-storey residential buildings(€100K-1M); Specifications of construction; Supervision of Rebar installation and concrete casting of beams, columns, slabs and foundations; Drainage design and drawings for residential buildings; Responsible for applying and tracking the planning permissions and construction permits.
-- **Other Responsibilities.**IT, Successfully built a fully backup system, custom built a desktop PC for 3D
+- **Main Responsibilities.** Structural analysis of a commercial 3-storey shopping and offices centre (€3M); Design and analysis of 2&3-storey residential buildings(€100K-1M); Specifications of construction; Supervision of Rebar installation and concrete casting of beams, columns, slabs and foundations; Drainage design and drawings for residential buildings; Responsible for applying and tracking the planning permissions and construction permits.
+- **Other Responsibilities.** IT, Successfully built a fully backup system, custom built a desktop PC for 3D
   design, co-designed and maintain Company’s website; Graphic design, Designed Company’s Brochures, adverts, business cards.
 
 ## [Aristo Developers](https://www.aristodevelopers.com), Cyprus (2004 – 2009)
