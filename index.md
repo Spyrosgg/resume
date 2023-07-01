@@ -33,7 +33,7 @@ Spyros is a chartered engineer with extended experience of new-build, refurbishm
 
 ## Career break (Jan 2022)
 
-Fatherhood
+_**Fatherhood**_
 
 ## [Atkins](https://www.atkinsglobal.com/), UK (Jan 2014 - Dec 2021)
 
