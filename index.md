@@ -56,9 +56,10 @@ _**Lead Structures Engineer**_
   - Design the concourse and podium structures over the platform level that will support the OSD.
   - High level OSD high-rise building design.
 
-### `BIM Manager`
+### `UCL PEARL, Enfield Care Home, Southwark Over Station Development`
 
-- **Project**. UCL PEARL, Enfield Care Home, Southwark Over Station Development
+_**BIM Manager**_
+
 - Multi-disciplinary coordination on BIM management and development.
 - Review ERIs, draft contracts, support structures team with design.
 
