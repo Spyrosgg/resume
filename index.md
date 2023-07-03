@@ -33,15 +33,15 @@ Spyros is a chartered engineer with extended experience of new-build, refurbishm
 
 ## Career break (Jan 2022)
 
-_**Fatherhood**_
+_**Parenting full-time**_
 
 ## [Atkins](https://www.atkinsglobal.com/), UK (Jan 2014 - Dec 2021)
 
 ### `Heathrow Extension Project (HEP)`
 
-_**Lead Structures Engineer**_
+_**Lead Engineer/Design Manager**_
 
-- **Riba stage 2**. Leading the structural concept design of 60 plus facilities for the new Heathrow extension plan.
+- **Riba stage 2**. Leading the multi-discilpinary concept design of 60 plus facilities for the new Heathrow extension plan.
 - The facilities include hotels, fire-fighting station, two story warehouse, offices, residential and various other supplementary facilities.
 - The structural design includes optioneering assessment of various structural methods and materials.
 - One of main client requirements is to maintain and normalise the construction to reduce cost and waste. I have developed various DfMA methods such as maintain standard column grids, designing compartments off-site, using steel for speed of design and many other.
@@ -59,7 +59,8 @@ _**Lead Structures Engineer**_
 ### `BIM Manager`
 
 - **Project**. UCL PEARL, Enfield Care Home, Southwark Over Station Development
-- **Tasks**. Review ERIs, draft contracts, support structures team on BIM management and development.
+- Multi-disciplinary coordination on BIM management and development.
+- Review ERIs, draft contracts, support structures team with design.
 
 ### `Crossrail, Farringdon station (FAR)`
 
