@@ -25,7 +25,7 @@
 
 ### Profile
 
-Spyros is a chartered engineer with extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in BIM and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules, including Crossrail delivery.
+Spyros is a chartered engineer with extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in BIM and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules.
 
 <br>
 
@@ -78,6 +78,7 @@ _**Lead Structures Engineer**_
 ### `University of Essex`
 
 _**Lead Engineer**_  
+
 Development and progression of the preliminary drawings to a finished construction package. The project consisted o two new-build blocks of two storey steel structures buildings.
 
 ### `Crossrail`
@@ -93,6 +94,8 @@ Development and progression of the preliminary drawings to a finished constructi
 - **Crossrail Anglia, DOO.** Driver Only Operation system included the re-design of 9 stations existing stations, form Stratford to Shenfield. I was part of a team which was responsible of the installation of the new cameras and mounting arms, Equipment Cabinet and the Leaky Feeder cable. My responsibilities consisted of assessing the existing canopy infrastructure, propose design for the installation, coordinate between the civils, telecom and MEP disciplines and managed a team of CAD technician for the production of civil drawings.
 
 ### `Enfield Care Home`
+
+_**Lead Engineer**_  
 
 - **Three-storey new-build care home centre.** Structural design of a three story care home centre, both in traditional masonry at the beginning and steel after the main contractor change. FE analysis model of the structure with Robot and development of a complete Revit Structural model. Lead coordinator for the Architectural, MEP and Structures BIM models. Production of complete structural drawing package. Technical support through TQs during construction stage.
 
@@ -113,7 +116,7 @@ Conducted multiple Structural Surveys and generated Structural Reports.
 
 ### `Commercial/Residential Design`
 
-_**Structural Engineer**_
+_**Civil Engineer**_
 
 - **Main Responsibilities.** Structural analysis of a commercial 3-storey shopping and offices centre (€3M); Design and analysis of 2&3-storey residential buildings(€100K-1M); Specifications of construction; Supervision of Rebar installation and concrete casting of beams, columns, slabs and foundations; Drainage design and drawings for residential buildings; Responsible for applying and tracking the planning permissions and construction permits.
 - **Other Responsibilities.** IT, Successfully built a fully backup system, custom built a desktop PC for 3D
@@ -129,10 +132,10 @@ _**Structural Engineer**_
 
 ## LICENSES & CERTIFICATIONS
 
-- **Chartered Engineer, CEng MICE** (2019)  
-  ICE - Institution of Civil Engineers
-- **Chartered Member** (2013)  
-  ETEK - Cyprus Scientific and Technical Chamber
+**Chartered Ebgineer with:** 
+- ICE - Institution of Civil Engineers
+- TEE - Technical Chamber of Greece
+- ETEK - Cyprus Scientific and Technical Chamber
 
 ## EDUCATION
 
@@ -145,5 +148,5 @@ _**Structural Engineer**_
 
 ## SKILLS & INTERESTS
 
-- **Skills:** BIM; Automation; Strategic planning; management;
+- **Skills:** BIM; Automation; Strategic planning; Lean management;
 - **Interests:** Socioeconomics, technology; DIY; snowboarding, skateboarding & climbing.
