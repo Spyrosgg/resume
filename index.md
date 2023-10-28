@@ -19,7 +19,7 @@
 <span class="sub">MEng CEng MICE</span>
 </div>
 
-## Senior Civil/Structural Engineer | BIM manager
+## Civil/Structural Engineer | BIM manager
 
 <spyrosgg@gmail.com> &#124; London, UK & Athens, Greece
 
