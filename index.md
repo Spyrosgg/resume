@@ -132,7 +132,7 @@ _**Civil Engineer**_
 
 ## LICENSES & CERTIFICATIONS
 
-**Chartered Ebgineer with:** 
+**Chartered engineer with:** 
 - ICE - Institution of Civil Engineers
 - TEE - Technical Chamber of Greece
 - ETEK - Cyprus Scientific and Technical Chamber
