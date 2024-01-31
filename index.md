@@ -31,6 +31,9 @@ Spyros is a chartered engineer with extended experience of new-build, refurbishm
 
 ## WORKING EXPERIENCE
 
+## [P&G Structural Engineering](https://pgse.co.uk/), (March 2023 - Present)
+_**Director/ Consultant**_ - Since 2023 operating as an independemt consultant and business owner in the field of design and engineering.
+
 ## Career break (Jan 2022)
 
 _**Parenting full-time**_
