@@ -152,8 +152,3 @@ _**Civil Engineer**_
 
 - **Thesis**: Numerical Simulation of Transverse Profile of the water velocity in Compound Open Channel Sections using semi-parabolic hydrodynamic version of the depth-averaged flow equations, a numerical solution has been developed for the transverse distribution of the longitudinal velocity in rectangular channels as well as in compound cross section.
 - **Major Project**: Stress Analysis of steel Pipes foundations: Developed a MATLAB Program that calculates the stress in steel Pipes Foundation with Finite Element Method and display graphically the results.
-
-## SKILLS & INTERESTS
-
-- **Skills:** BIM; Automation; Strategic planning; Lean management;
-- **Interests:** Socioeconomics, technology; DIY; snowboarding, skateboarding & climbing.
