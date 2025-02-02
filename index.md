@@ -30,19 +30,20 @@ Spyros is a chartered engineer with extended experience of new-build, refurbishm
 <br>
 
 ## WORKING EXPERIENCE
+## [Jacobs](https://www.jacobs.com/), UK (Apr 2024 - Present
+
+### `Northvolt Drei, DS1 building (NV3)`
+
+_**Structures Lead**_
 
 ## [P&G Structural Engineering](https://pgse.co.uk/), (March 2023 - Present)
 _**Director/ Consultant**_ - Since 2023 operating as an independemt consultant and business owner in the field of design and engineering.
-
-## Career break (Jan 2022)
-
-_**Parenting full-time**_
 
 ## [Atkins](https://www.atkinsglobal.com/), UK (Jan 2014 - Dec 2021)
 
 ### `Heathrow Extension Project (HEP)`
 
-_**Lead Engineer/Design Manager**_
+_**Lead Structures**_
 
 - **Riba stage 2**. Leading the multi-discilpinary concept design of 60 plus facilities for the new Heathrow extension plan.
 - The facilities include hotels, fire-fighting station, two story warehouse, offices, residential and various other supplementary facilities.
