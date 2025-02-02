@@ -25,7 +25,7 @@
 
 ### Profile
 
-Spyros is a chartered engineer with extended experience of new-build, refurbishment and extension projects in several sectors i.e. High-rise buildings, Rail, Educational, Heath Care and Commercial structures. He has a strong engineering knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in BIM and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules.
+Spyros is a chartered engineer with extended experience in leading teams of engineers in delivering complex and significant structural designs for multiple Europe projects. He has experience in several sectors including  Industrial, Transportation, Education, Commercial and Residential development, with projects such as Northvolt Drei, Crossrail, Croydon Station remodelling, Heathrow Airport extension and Hinkley Point C. He has strong technical knowledge and attention to detail which enables him to effectively identify design and commercial opportunities to create efficiencies and add value to the project. He also specialises in BIM and automation development, looking to drive innovation in the engineering field. This enables him to increase team productivity and successfully deliver significant projects on tight schedules.
 
 <br>
 
@@ -35,17 +35,20 @@ Spyros is a chartered engineer with extended experience of new-build, refurbishm
 ### `Northvolt Drei, DS1 building (NV3)`
 
 _**Structures Lead**_
+Lead structural engineer of the London and Munich offices for the deisng of a sustainable state-of-the-art battery cell factory, which will employ around 3.000 people in the final expansion stage. The building has overall dimensions of 400x200m and 25m height. 
+- Engaged with the client, internal disciplines, external consultants, and contractors to develop the design of a modular factory that would significantly reduce the client's CapEx and utilize MMC (Modern Methods of Construction) and DfMA (Design for Manufacture and Assembly) principles to provide efficiency and reduce construction time.
+- Standardised specifications development and led the development of site-wide technical documentation.
 
-## [P&G Structural Engineering](https://pgse.co.uk/), (March 2023 - Present)
+## [P&G Structural Engineering](https://pgse.co.uk/), (Mar 2023 - Apr 2024)
 _**Director/ Consultant**_ - Since 2023 operating as an independemt consultant and business owner in the field of design and engineering.
 
 ## [Atkins](https://www.atkinsglobal.com/), UK (Jan 2014 - Dec 2021)
 
 ### `Heathrow Extension Project (HEP)`
 
-_**Lead Structures**_
+_**Structures Lead**_
 
-- **Riba stage 2**. Leading the multi-discilpinary concept design of 60 plus facilities for the new Heathrow extension plan.
+- **Riba stage 2**. Lead the multi-discilpinary concept design of 60 plus facilities for the new Heathrow extension plan.
 - The facilities include hotels, fire-fighting station, two story warehouse, offices, residential and various other supplementary facilities.
 - The structural design includes optioneering assessment of various structural methods and materials.
 - One of main client requirements is to maintain and normalise the construction to reduce cost and waste. I have developed various DfMA methods such as maintain standard column grids, designing compartments off-site, using steel for speed of design and many other.
