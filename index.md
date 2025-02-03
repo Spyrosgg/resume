@@ -30,7 +30,7 @@ Spyros is a chartered engineer with extended experience in leading teams of engi
 <br>
 
 ## WORKING EXPERIENCE
-## [Jacobs](https://www.jacobs.com/), UK (Apr 2024 - Present
+## [Jacobs](https://www.jacobs.com/), UK (Apr 2024 - Present)
 
 ### `Northvolt Drei, DS1 building (NV3)`
 
@@ -39,7 +39,7 @@ Lead structural engineer of the London and Munich offices for the deisng of a su
 - Engaged with the client, internal disciplines, external consultants, and contractors to develop the design of a modular factory that would significantly reduce the client's CapEx and utilize MMC (Modern Methods of Construction) and DfMA (Design for Manufacture and Assembly) principles to provide efficiency and reduce construction time.
 - Standardised specifications development and led the development of site-wide technical documentation.
 
-## [P&G Structural Engineering](https://pgse.co.uk/), (Mar 2023 - Apr 2024)
+## [P&G Structural Engineering](https://pgse.co.uk/), (Mar 2023 - Present)
 _**Director/ Consultant**_ - Since 2023 operating as an independemt consultant and business owner in the field of design and engineering.
 
 ## [Atkins](https://www.atkinsglobal.com/), UK (Jan 2014 - Dec 2021)
