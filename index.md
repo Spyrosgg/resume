@@ -19,7 +19,7 @@
 <span class="sub">MEng CEng MICE</span>
 </div>
 
-## Associate Director / Structural Engineer
+## Technical Director / Structural Engineer
 
 <spyrosgg@gmail.com> &#124; London, UK & Athens, Greece
 
