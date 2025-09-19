@@ -37,7 +37,7 @@ _**Technical Director**_ - Leading London Civil and Structures Department.
 
 ### `Northvolt Drei, DS1 building (NV3)`
 
-_**Structures Lead**_
+_**Associate Director**_  
 Lead structural engineer of the London and Munich offices for the deisng of a sustainable state-of-the-art battery cell factory, which will employ around 3.000 people in the final expansion stage. The building has overall dimensions of 400x200m and 25m height. 
 - Engaged with the client, internal disciplines, external consultants, and contractors to develop the design of a modular factory that would significantly reduce the client's CapEx and utilize MMC (Modern Methods of Construction) and DfMA (Design for Manufacture and Assembly) principles to provide efficiency and reduce construction time.
 - Standardised specifications development and led the development of site-wide technical documentation.
