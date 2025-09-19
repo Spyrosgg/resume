@@ -30,7 +30,10 @@ Spyros is a chartered engineer with extended experience in leading teams of engi
 <br>
 
 ## WORKING EXPERIENCE
-## [Jacobs](https://www.jacobs.com/), UK (Apr 2024 - Present)
+## [Black & White Engineering](https://bw-engineering.com/), UK (Apr 2025 - Present)
+_**Technical Director**_ - Leading London Civil and Structures Department.
+
+## [Jacobs](https://www.jacobs.com/), UK (Apr 2024 - Mar 2024)
 
 ### `Northvolt Drei, DS1 building (NV3)`
 
